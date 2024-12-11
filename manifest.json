@@ -3,7 +3,7 @@
   "name": "Hivemapper",
   "version": "1.0.0",
   "config_flow": true,
-  "documentation": "https://www.example.com/hivemapper",
+  "documentation": "https://github.com/Hatfa/HA-hivemapper.git",
   "requirements": ["aiohttp"],
   "codeowners": ["@Hatfa"],
   "iot_class": "cloud_polling",
